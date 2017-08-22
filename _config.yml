@@ -1,32 +1,17 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
+name: Aldy Martinus
+description: "Ordinary Human"
 url: ""
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  bot08
-codepen_username: 
 facebook_username: your_facebook_username_goes_here
-vk_username: 
-twitter_username: 
-google_plus_username: 
-linkedin_username: 
-vine_username:  
 instagram_username:  @noob_l8
-flickr_username: 
-steam_username: bot08
-soundcloud_username:  
-stack_of_username: 
-reddit_username: 
-medium_username:  
-tumblr_username: 
-weibo_username: 
-lastfm_username: 
+steam_username: bot08 
 blog_url: "blog.aldy.ga"
-email: aldy@merahputih.id
-public_key_url: 
+email: aldy@merahputih.id 
 
 
 avatar: yes
